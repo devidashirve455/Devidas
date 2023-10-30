@@ -1,0 +1,103 @@
+\documentclass{article}
+\usepackage{graphicx}
+
+\title{\textbf{Shri Govindram Seksaria Institute of technology Indore (M.P.)}}
+\date{29 October 2023}
+\author{\textbf{Devidas Hirve}}
+\begin{document}
+\maketitle
+ \centering
+ \includegraphics[width=3cm]{sgsits.png}
+\end{figure}
+\subsection*{\textbf{\textit{Programming Practices : Mini Project(Online Shopping)}}}
+\subsection*{\textbf{\textit{https://github.com/devidashirve455/Devidas}}}
+\vspace{2mm}
+\hline \vspace{3mm}
+\subsection*{Objectives}
+\vspace{2mm}
+\begin{enumerate}
+ \item  The objectives of an online shopping program project refer to the specific goals and outcomes that the project aims to achieve. These objectives guide the project's planning, execution, and evaluation.
+\vspace{6mm}
+\subsection*{Technology Used}
+\vspace{4mm}
+\begin{enumerate}
+\vspace{}
+\choices C++
+ \vspace{5mm} \hline{}
+
+
+\end{enumerate}
+
+\subsection*{Purpose}
+\vspace{4mm}
+\begin{enumerate}
+
+The purpose of an online shopping program is to revolutionize and simplify the process of purchasing goods and services through digital platforms. It offers unparalleled convenience, allowing customers to shop from virtually anywhere at any time, eliminating the need for physical store visits. This accessibility extends the reach of businesses, breaking down geographical boundaries and connecting them to a global audience. With comprehensive product information, price comparisons, and secure payment options, it empowers customers to make informed decisions and find the best deals. For businesses, online shopping programs facilitate efficient inventory management, data collection, and marketing strategies, ultimately creating a dynamic marketplace that enhances the customer experience and expands market reach while reducing overhead costs.
+\end{enumerate}
+\vspace{3mm}
+
+\vspace{4mm}
+
+
+\hline{}
+\subsection*{Scope}
+\vspace{6mm}
+\begin{enumerate}
+ \item The program should have user-friendly interfaces for both customers and administrators, including web and mobile versions.
+
+ \item It should support product catalog creation, product categorization, and detailed product listings with descriptions, images, and pricing.
+
+ \item Customers and businesses should be able to create accounts and log in securely.
+
+ \item The program should include a shopping cart for customers to add and manage items, and a secure checkout process for order placement.
+
+ \item  Integration with various payment gateways to enable secure transactions.
+
+ \item Robust search and filtering options for customers to find products easily.
+
+ \item Managing customer orders, order history, and order tracking features.
+
+ \item  Inventory management tools for businesses to track stock levels and receive notifications for low-stock items.
+
+ \item  Implementing security protocols to protect user data and transactions.
+ 
+ \item  Ensuring that the program works well on different devices and screen sizes.
+
+ \item Tools for businesses to run promotions, discounts, and marketing campaigns.
+
+ \item  Managing and displaying customer reviews and ratings for products.
+
+ \item Collecting data on user behavior, sales, and other key performance indicators for analysis and reporting.
+
+ \item  Providing features for customer support, including live chat, email communication, and FAQs.
+
+ \item  Supporting multiple languages and regions.
+
+\end{enumerate}
+ \vspace{6mm}
+ \hline{}
+
+
+
+
+
+\vspace{1cm}
+\vspace{2mm}
+\section*{\textbf{Output}}
+\vspace{3mm}
+ \centering
+ \includegraphics[width=8.8cm]{1.png}
+\vspace{10mm} \hline{}
+ \hline{}
+\section*{\textbf{Debugging}}
+\vspace{8mm}
+ \centering
+ \includegraphics[width=8.8cm]{ss.png}
+\vspace{8mm}
+ \centering
+ \vspace{}
+ \includegraphics[width=8.8cm]{1.png}
+ \vspace{8mm}
+\vspace{}
+ \hline{}
+\end{document}
